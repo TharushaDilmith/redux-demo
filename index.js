@@ -1,0 +1,1 @@
+const CAKE_ORDERD = 'CAKE_ORDERD';
